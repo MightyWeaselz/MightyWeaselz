@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MightyWeaselz a beginner Coder
+- 👋 Hi, I’m @MightyWeaselz a n Advanced Java Coder and Beginner Haskell and C Coder
 - 👀 I’m interested in many things, but mostly Coding and Music
-- 🌱 I’m currently learning Basic languages like Java, Javascript, C, C# everything on Microsoft Visul Studio
+- 🌱 I’m currently learning languages like Java, (kotlin), C, Haskell, mostly on VS Code
 - 📫 How to reach me: constantinwessels@googlemail.com
 
 <!---
