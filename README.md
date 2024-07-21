@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MightyWeaselz a n Advanced Java Coder and Beginner Haskell and C Coder
+- 👋 Hi, I’m @MightyWeaselz an Advanced Java Coder, with base experience in Python, Kotlin and Haskell
 - 👀 I’m interested in many things, but mostly Coding and Music
-- 🌱 I’m currently learning languages like Java, (kotlin), C, Haskell, mostly on VS Code
-- 📫 How to reach me: constantinwessels@googlemail.com
+- 🌱 I’m currently learning and using languages like Java, kotlin, Haskell on IDE's like VSC, IntelliJ and PyCharm
+- 📫 How to reach me: constantin.wessels@web.de
 
 <!---
 MightyWeaselz/MightyWeaselz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
